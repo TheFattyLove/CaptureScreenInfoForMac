@@ -1,0 +1,5 @@
+opencv-python
+numpy
+Pillow
+pyobjc-core
+pyobjc-framework-Quartz
